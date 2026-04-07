@@ -11,7 +11,7 @@ A cybersecurity student who competes, builds tools, and digs into how things bre
 - 🏆 Competed in **CCDC** and **Simspace IR 2026** — collegiate cyber defense
 - 🔐 Built **AirCrypto** — a Python CLI encryption toolkit (AES-GCM, RSA-2048, signatures)
 - 📡 Interested in **incident response**, **network defense**, and **cryptography**
-- 🎓 Currently studying **Cryptography**
+- 🎓 Currently studying **White Hat Hacking**
 - 💬 Motto: *Understand the attack. Build the defense.*
 
 ---
